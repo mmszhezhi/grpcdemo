@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2e4fc38-672a-4974-a6a8-fb854fafbad9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1Z173Q7zJbUsWZBAGFEFNGgA8pS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="D:/repo2020/gorepo/grpctest" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build grpc_test">
+    <configuration name="go build grpc_test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="grpc_test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="grpc_test" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build grpc_test/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="grpc_test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/client.go" />
+      <package value="grpc_test/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="grpc_test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="grpc_test" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="grpc_test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/server.go" />
+      <package value="grpc_test" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build grpc_test" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build grpc_test/main" />
+        <item itemvalue="Go Build.go build server.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584613582804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584613582804" />
+    <state x="682" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584612428034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583994649028" />
+    <state x="682" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1584612428034" />
+    <state x="475" y="14" key="#go_build_grpc_test/main" timestamp="1587114494219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="14" key="#go_build_grpc_test/main/0.0.1366.728@0.0.1366.728" timestamp="1587114494219" />
+    <state x="668" y="154" key="#go_build_grpc_test/main/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584335304229" />
+    <state x="391" y="0" key="#go_build_server.go" timestamp="1587112637678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#go_build_server.go/0.0.1366.728@0.0.1366.728" timestamp="1587112637678" />
+    <state x="694" y="281" key="EnvironmentVariablesDialog" timestamp="1583995069122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="281" key="EnvironmentVariablesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583995069122" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587435455581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587435455581" />
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1587541037062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587114392288" />
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587541037062" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1587541037062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587114392288" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587541037062" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1587541037060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587114392288" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587541037060" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1587541037062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587114392288" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587541037062" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587541333422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="328" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587114463402" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587541333422" />
+  </component>
+</project>
